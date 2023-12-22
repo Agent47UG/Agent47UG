@@ -58,16 +58,15 @@ and design, <br>experienced with Python and Data Structures.
 
 </p>
 </td>
-    <td>
-  
+   
+<td>
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-
 <p align="center">
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=agent47ug&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
  </br>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=kaustav202"/>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=agent47ug"/>
  </br>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustav202&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agent47ug&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
 </p>
      
   </td>
