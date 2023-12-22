@@ -9,5 +9,6 @@
 <a href="https://www.instagram.com/ujwal_ghodeswar?igsh=YzVkODRmOTdmMw=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://leetcode.com/ujwalghodeswar/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
 </div>
+<hr>
 
 
