@@ -16,7 +16,8 @@ Passionate about creating <b>Web Pages</b> with <b>UI/UX</b> User Interface with
 and design, <br>experienced with Python and Data Structures. 
 </p> 
 
-
+<br>
+<br>
 
 
 <table width="100%" >
