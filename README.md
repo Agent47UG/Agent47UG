@@ -13,5 +13,5 @@
 <p align="center">
   Hello, I am Ujwal Ghodeswar, a Third Year Undergrad Student at Sinhgad Institude of Technology<br>
 Passionate about creating <b>Web Pages</b> with <b>UI/UX</b> User Interface with knowledge in web development
-and design, experienced with Python and Data Structures. 
+and design, <br>experienced with Python and Data Structures. 
 </p> 
