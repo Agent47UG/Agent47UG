@@ -67,9 +67,9 @@ and design, <br>experienced with Python and Data Structures.
 <p align="center">
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=agent47ug&theme=slateorange&show_icons=true" />
  </br>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=agent47ug"/>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=agent47ug&theme=slateorange"/>
  </br>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agent47ug&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agent47ug&theme=slateorange&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
 </p>
      
   </td>
