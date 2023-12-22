@@ -65,7 +65,7 @@ and design, <br>experienced with Python and Data Structures.
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats</b>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=agent47ug&theme=slateorange&show_icons=true" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=agent47ug&theme=slateorange&show_icons=true&hide_border" />
  </br>
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=agent47ug&theme=slateorange" />
  </br>
