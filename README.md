@@ -19,6 +19,11 @@ and design, <br>experienced with Python and Data Structures.
 <br>
 <br>
 
+<style>
+  .table1{
+    vertical-align:top;
+  }
+</style>
 
 <table width="100%" >
  <tr>
@@ -58,7 +63,7 @@ and design, <br>experienced with Python and Data Structures.
 
 </p>
 </td>
-  <td style:"vertical-align: top;">
+  <td class="table1">
     
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats</b>
 <p align="center">
