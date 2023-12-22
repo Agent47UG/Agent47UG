@@ -10,7 +10,7 @@
 <a href="https://leetcode.com/ujwalghodeswar/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
 </div>
 <hr>
-<p>
+<p align="center">
   Hello, I am Ujwal Ghodeswar, a Third Year Undergrad Student at Sinhgad Institude of Technology<br>
 Passionate about creating <b>Web Pages</b> with <b>UI/UX</b> User Interface with knowledge in web development
 and design, experienced with Python and Data Structures. 
