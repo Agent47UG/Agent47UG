@@ -2,7 +2,7 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=F7B61A&center=true&vCenter=true&random=false&width=435&lines=Software+Engineer..&hearts;++;Front-End+Developer;Designer;Computer+Science+Student;Love+to+Learn+%3C3" alt="Typing SVG" /></a>
 </p>
-<div align="center
+<div align="center">
   
 [![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/jlim/)
 [![Medium Badge](https://img.shields.io/badge/-@__jessicalim-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@_jessicalim)](https://medium.com/@_jessicalim)
