@@ -69,7 +69,7 @@ and design, <br>experienced with Python and Data Structures.
  </br>
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=agent47ug&theme=slateorange" />
  </br>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agent47ug&theme=slateorange&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=slateorange" />
 </p>
      
   </td>
