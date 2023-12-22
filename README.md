@@ -58,7 +58,7 @@ and design, <br>experienced with Python and Data Structures.
 
 </p>
 </td>
-  <td vertical-align="top">
+  <td style:"vertical-align: top;">
     
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats</b>
 <p align="center">
