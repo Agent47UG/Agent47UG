@@ -4,7 +4,7 @@
 </p>
 <div align="center">
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<p><a href="www.linkedin.com/in/ujwal-ghodeswar-268209241"></a><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></p>
 <img src="{BadgeURLHere}" />
 <img src="{BadgeURLHere}" />
 <img src="{BadgeURLHere}" />
